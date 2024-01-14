@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,600;1,800&display=swap');
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+    background-image: url('/assets/pattern.jpg');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size: 800px 800px;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.month-title{
+    margin: auto;
+    width: 800px;
+    text-shadow: 2px 2px 4px #6d3be4;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+.diary-section{
+    background-color: #EED89A;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+    padding-left: 35px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+.date{
+    font-weight: 600;
+}
