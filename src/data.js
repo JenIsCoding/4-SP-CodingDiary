@@ -65,12 +65,21 @@ export default[
         titleResource: "Netlify account created; study the deployment through Netlify. Success 😺!!!!!!!!!!!! It was easiest than GH Page process :)"
     },
     {
-        id: 7,
+        id: 8,
         month: ["01","January"],
         day: "14",
         year: "2024",
         programmingLanguage: "React",
         linkResource: "https://www.youtube.com/watch?v=bMknfKXIFA8&t=8847s",
         titleResource: "Almost at the end of this 3rd part of this fantastic tutorial."
+    },
+    {
+        id: 9,
+        month: ["01","January"],
+        day: "14",
+        year: "2024",
+        programmingLanguage: "GitHub",
+        linkResource: " ",
+        titleResource: "Update Readme.md of 1-ReactInfoSite project with the link of the deployed site."
     },
 ]
