@@ -7,4 +7,6 @@ It reports the programming language I will focus on during that particular day a
 
 The data are added every day in the `data.js` file and they are rendered in the HTML page through Props.
 
+The deployed version of the Coding Diary on [Netlify](https://4-codingdiary.netlify.app) is here.
+
 Credits for the background pattern: [Abstract geometric pattern background](https://www.freepik.com/free-vector/abstract-geometric-pattern-background_1195853.htm) by vilmosvarga
