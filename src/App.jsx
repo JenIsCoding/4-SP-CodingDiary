@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <div className="month-title"><h2>January & February 2024</h2></div>
+    <div className="month-title"><h2>2024 Coding Diary</h2></div>
     <div className="container">
     {getdata}
     </div>
