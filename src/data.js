@@ -237,7 +237,7 @@ export default[
     },
     {
         id: "feb-24-1",
-        month: ["01","February"],
+        month: ["02","February"],
         day: "01",
         year: "2024",
         programmingLanguage: "React",
